@@ -16,8 +16,8 @@
 "MODE_mp3_online_offline" : "online",
 
 
-"MODE_NO_ADS" : true,
-"ADS_on_START" : true,
+"MODE_NO_ADS" : false,
+"ADS_on_START" : false,
 "ads_on_exit_dialog" : true,
 
 "Json_popup_Wait" : "Data Ready to GO . . .",
@@ -30,7 +30,7 @@
 // fan
 // unity = backup startapp
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
 "PENGATURAN_IKLAN_banner" : "fan",
 "PENGATURAN_IKLAN_inter" : "fan",
 "INTER_COUNT" : 4,
@@ -39,14 +39,14 @@
 "ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
 "ADMOB_OPENADS" : "ca-app-pub-belum di isi ini bro",
 
-"FAN_INTER" : "YOUR_PLACEMENT_ID",
-"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "492373728635915_494092981797323",
+"FAN_BANNER" : "492373728635915_494092881797333",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
 "UNITY_GAME_ID" : "4176863",
 
-"startappid" : "12345",
+"startappid" : "205082972",
 "enable_strap" : false,
 "enable_strap_SplahScreen" : false,
 
