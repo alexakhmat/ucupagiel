@@ -1,0 +1,193 @@
+{
+"Ads": [
+{
+
+// 0 artinya tidak di redirect
+// 1 artinya di redirect
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// online atau offline
+"MODE_mp3_online_offline" : "online",
+
+
+"MODE_NO_ADS" : false,
+"ADS_on_START" : true,
+"ads_on_exit_dialog" : true,
+
+"Json_popup_Wait" : "Data Ready to GO . . .",
+"Mode_No_Ads_true" : "Proversion Activated",
+
+// mode iklan list
+// PENGATURAN IKLAN
+// admob1 = backup startapp
+// admob2 = backup unity backup startapp
+// fan
+// unity = backup startapp
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : true,
+"PENGATURAN_IKLAN_banner" : "fan",
+"PENGATURAN_IKLAN_inter" : "fan",
+"INTER_COUNT" : 4,
+
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_OPENADS" : "ca-app-pub-3940256099942544/3419835294",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "inter",
+"UNITY_GAME_ID" : "4176863",
+
+"STARAPPID" : "12345",
+"enable_strap" : false,
+"enable_strap_SplahScreen" : false,
+
+
+// Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+// help give us a 5 star rating, so we keep the spirit of providing the latest updates
+// jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"Exit_Popup_Dialog" : "Bantu Rating 5 bintang agar kami dapat terus memberikan memperbarui aplikasi ini - kaian juga bisa meninggalkan komentar untuk request lagu apa yang dapat kami tambahkan",
+"Rate_Button" : "Rating Sekarang",
+"Later_Button" : "nanti dulu",
+"enable_Share_button" : true,
+"Share_TXT" : "cobain bro, aplikasi ini isinya lagu dj keren keren 
+lengkap kekinian
+aku udah nyobain 
+coba download aja klik link dibawah 
+
+",
+"More_Button" : "Bagikan Aplikasi ini ke teman via whatsapp",
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.package.name"
+
+}
+]
+,"Mp3": [
+{
+     "name_mp3": "DJ ADUH MAMAE ADA COW0K BAJU HITAM",
+     "link_mp3": "DJ ADUH MAMAE ADA COW0K BAJU HITAM.mp3"
+   },{
+     "name_mp3": "DJ ALL NIGHT NO SLEEP",
+     "link_mp3": "DJ ALL NIGHT NO SLEEP.mp3"
+   },{
+     "name_mp3": "DJ BABY BUM BUMBUM x AKIMILAKU",
+     "link_mp3": "DJ BABY BUM BUMBUM x AKIMILAKU.mp3"
+   },{
+     "name_mp3": "DJ BILA DIA MENYUKAIKU BABY FAMILY",
+     "link_mp3": "DJ BILA DIA MENYUKAIKU BABY FAMILY.mp3"
+   },{
+     "name_mp3": "DJ BUKAN EMAS PERMATA YANG KUPINTA",
+     "link_mp3": "DJ BUKAN EMAS PERMATA YANG KUPINTA.mp3"
+   },{
+     "name_mp3": "DJ CHICA LOCA BAGAIMANA LANJUT",
+     "link_mp3": "DJ CHICA LOCA BAGAIMANA LANJUT.mp3"
+   },{
+     "name_mp3": "DJ COBA KAU INGAT INGAT KEMBALI",
+     "link_mp3": "DJ COBA KAU INGAT INGAT KEMBALI.mp3"
+   },{
+     "name_mp3": "DJ DAMON VOCATION PANIK GAK",
+     "link_mp3": "DJ DAMON VOCATION PANIK GAK.mp3"
+   },{
+     "name_mp3": "DJ DEMONS JAR OF HEART",
+     "link_mp3": "DJ DEMONS JAR OF HEART.mp3"
+   },{
+     "name_mp3": "DJ DIAMOND IN THE SKY x MONSTERS",
+     "link_mp3": "DJ DIAMOND IN THE SKY x MONSTERS.mp3"
+   },{
+     "name_mp3": "DJ DIMANA SALAHNYA HINGGA KAU PERGI MENJAUH",
+     "link_mp3": "DJ DIMANA SALAHNYA HINGGA KAU PERGI MENJAUH.mp3"
+   },{
+     "name_mp3": "DJ ENAK SUSU JANDA ADA YANG TUMBANG",
+     "link_mp3": "DJ ENAK SUSU JANDA ADA YANG TUMBANG.mp3"
+   },{
+     "name_mp3": "DJ GRATATATA",
+     "link_mp3": "DJ GRATATATA.mp3"
+   },{
+     "name_mp3": "DJ HARTA DAN TAHTA JELEK GAK PAPA",
+     "link_mp3": "DJ HARTA DAN TAHTA JELEK GAK PAPA.mp3"
+   },{
+     "name_mp3": "DJ HEARBREAK TANTE CULIK AKU DONG",
+     "link_mp3": "DJ HEARBREAK TANTE CULIK AKU DONG.mp3"
+   },{
+     "name_mp3": "DJ HOW DO YOU DO LALALA",
+     "link_mp3": "DJ HOW DO YOU DO LALALA.mp3"
+   },{
+     "name_mp3": "DJ IAM LADY",
+     "link_mp3": "DJ IAM LADY.mp3"
+   },{
+     "name_mp3": "DJ IM COMING HOME",
+     "link_mp3": "DJ IM COMING HOME.mp3"
+   },{
+     "name_mp3": "DJ ITS MY LIFE x LALALA TUMENEDANG",
+     "link_mp3": "DJ ITS MY LIFE x LALALA TUMENEDANG.mp3"
+   },{
+     "name_mp3": "DJ MAIMUNAH PODING",
+     "link_mp3": "DJ MAIMUNAH PODING.mp3"
+   },{
+     "name_mp3": "DJ MERINDUKANMU",
+     "link_mp3": "DJ MERINDUKANMU.mp3"
+   },{
+     "name_mp3": "DJ MORE THAN YOU KNOW",
+     "link_mp3": "DJ MORE THAN YOU KNOW.mp3"
+   },{
+     "name_mp3": "DJ NUMA NUMA YEI REMIX",
+     "link_mp3": "DJ NUMA NUMA YEI REMIX.mp3"
+   },{
+     "name_mp3": "DJ OLD BETTER HAVE MY MONEY",
+     "link_mp3": "DJ OLD BETTER HAVE MY MONEY.mp3"
+   },{
+     "name_mp3": "DJ PACARKU DITIKUNG TEMAN HATI HANCUR BERANTAKAN",
+     "link_mp3": "DJ PACARKU DITIKUNG TEMAN HATI HANCUR BERANTAKAN.mp3"
+   },{
+     "name_mp3": "DJ SA JANJI TRA AKAN MINUM LAGI",
+     "link_mp3": "DJ SA JANJI TRA AKAN MINUM LAGI.mp3"
+   },{
+     "name_mp3": "DJ TIE ME DOWN",
+     "link_mp3": "DJ TIE ME DOWN.mp3"
+   },{
+     "name_mp3": "DJ TO THE BONE PAMUNGKAS",
+     "link_mp3": "DJ TO THE BONE PAMUNGKAS.mp3"
+   },{
+     "name_mp3": "DJ UNSTOPPABLE REMIX TIK TOK VIRAL 2021",
+     "link_mp3": "DJ UNSTOPPABLE REMIX TIK TOK VIRAL 2021.mp3"
+   },{
+     "name_mp3": "DJ ODADING MANG OLEH",
+     "link_mp3": "DJ ODADING MANG OLEH.mp3"
+   },{
+     "name_mp3": "PI PI PI CALON MANTU VIRAL",
+     "link_mp3": "PI PI PI CALON MANTU VIRAL.mp3"
+   },{
+     "name_mp3": "PKEMON DIMANA KAMU",
+     "link_mp3": "PKEMON DIMANA KAMU.mp3"
+   }
+
+],"Wallpaper": [
+  {
+    "image": "file:///android_asset/dj.jpg"
+  },{
+    "image": "file:///android_asset/dj1.jpg"
+  },{
+    "image": "file:///android_asset/dj2.jpg"
+  },{
+    "image": "file:///android_asset/dj3.jpg"
+  },{
+    "image": "file:///android_asset/dj4.jpg"
+  },{
+    "image": "file:///android_asset/dj5.jpg"
+  },{
+    "image": "file:///android_asset/dj6.jpg"
+  },{
+    "image": "file:///android_asset/dj7.jpg"
+  },{
+    "image": "file:///android_asset/dj8.jpg"
+  },{
+    "image": "file:///android_asset/dj9.jpg"
+  },{
+    "image": "file:///android_asset/dj10.jpg"
+  },{
+    "image": "file:///android_asset/dj11.jpg"
+  }
+
+]}
