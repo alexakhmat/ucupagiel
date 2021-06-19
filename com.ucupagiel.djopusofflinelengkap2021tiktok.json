@@ -1,7 +1,12 @@
 {
 "Ads": [
 {
-
+     
+// NOTE
+     // belum FAN DAN STARTRAPP
+     // baru unity saja
+     
+     
 // 0 artinya tidak di redirect
 // 1 artinya di redirect
 "STATUS_APP" : "0",
@@ -32,7 +37,7 @@
 
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
 "ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_OPENADS" : "ca-app-pub-3940256099942544/3419835294",
+"ADMOB_OPENADS" : "ca-app-pub-belum di isi ini bro",
 
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
