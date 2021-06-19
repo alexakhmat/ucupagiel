@@ -41,7 +41,7 @@
 "UNITY_INTERSTITIAL" : "inter",
 "UNITY_GAME_ID" : "4176863",
 
-"STARAPPID" : "12345",
+"startappid" : "12345",
 "enable_strap" : false,
 "enable_strap_SplahScreen" : false,
 
