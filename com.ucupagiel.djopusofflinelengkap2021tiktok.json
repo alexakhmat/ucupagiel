@@ -16,7 +16,7 @@
 "MODE_mp3_online_offline" : "online",
 
 
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,
 "ADS_on_START" : true,
 "ads_on_exit_dialog" : true,
 
@@ -54,7 +54,12 @@
 // Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
 // help give us a 5 star rating, so we keep the spirit of providing the latest updates
 // jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
-"Exit_Popup_Dialog" : "Bantu Rating 5 bintang agar kami dapat terus memberikan memperbarui aplikasi ini - kaian juga bisa meninggalkan komentar untuk request lagu apa yang dapat kami tambahkan",
+"Exit_Popup_Dialog" : "
+     Bantu Rating 5 bintang
+     
+     agar kami dapat terus memberikan memperbarui aplikasi ini
+     
+     kalian juga bisa meninggalkan komentar setelah rating untuk request lagu apa yang dapat kami tambahkan",
 "Rate_Button" : "Rating Sekarang",
 "Later_Button" : "nanti dulu",
 "enable_Share_button" : true,
