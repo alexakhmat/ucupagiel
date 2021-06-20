@@ -32,7 +32,7 @@
 
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
 "PENGATURAN_IKLAN_banner" : "fan",
-"PENGATURAN_IKLAN_inter" : "fan",
+"PENGATURAN_IKLAN_inter" : "unity",
 "INTER_COUNT" : 4,
 
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
@@ -47,7 +47,7 @@
 "UNITY_GAME_ID" : "4176863",
 
 "startappid" : "205082972",
-"enable_strap" : false,
+"enable_strap" : true,
 "enable_strap_SplahScreen" : false,
 
 
@@ -55,11 +55,11 @@
 // help give us a 5 star rating, so we keep the spirit of providing the latest updates
 // jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
 "Exit_Popup_Dialog" : "
-     Bantu Rating 5 bintang
+Bantu Rating 5 bintang
      
-     agar kami dapat terus memberikan memperbarui aplikasi ini
+agar kami dapat terus memberikan memperbarui aplikasi ini
      
-     kalian juga bisa meninggalkan komentar setelah rating untuk request lagu apa yang dapat kami tambahkan",
+kalian juga bisa meninggalkan komentar setelah rating untuk request lagu apa yang dapat kami tambahkan",
 "Rate_Button" : "Rating Sekarang",
 "Later_Button" : "nanti dulu",
 "enable_Share_button" : true,
