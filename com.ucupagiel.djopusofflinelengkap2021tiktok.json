@@ -31,8 +31,8 @@
 // unity = backup startapp
 
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
-"PENGATURAN_IKLAN_banner" : "admob2",
-"PENGATURAN_IKLAN_inter" : "admob2",
+"PENGATURAN_IKLAN_banner" : "fan",
+"PENGATURAN_IKLAN_inter" : "unity",
 "INTER_COUNT" : 5,
 
 "ADMOB_INTER" : "ca-app-pub-7530364106237448/8687618898",
