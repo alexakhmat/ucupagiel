@@ -1,0 +1,163 @@
+{
+"Ads": [
+{
+     
+// NOTE
+     // belum FAN DAN STARTRAPP
+     // baru unity saja
+     
+     
+// 0 artinya tidak di redirect
+// 1 artinya di redirect
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// online atau offline
+"MODE_mp3_online_offline" : "online",
+
+
+"MODE_NO_ADS" : false,
+"ADS_on_START" : false,
+"ads_on_exit_dialog" : true,
+
+"Json_popup_Wait" : "Data Ready to GO . . .",
+"Mode_No_Ads_true" : "Proversion Activated",
+
+// mode iklan list
+// PENGATURAN IKLAN
+// admob1 = backup startapp
+// admob2 = backup unity backup startapp
+// fan
+// unity = backup startapp
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_banner" : "unity",
+"PENGATURAN_IKLAN_inter" : "unity",
+"INTER_COUNT" : 5,
+
+"ADMOB_INTER" : "ca-app-pub-
+"ADMOB_BANNER" : "ca-app-pub-
+"ADMOB_OPENADS" : "ca-app-pub-
+
+"FAN_INTER" : "Your FAN id",
+"FAN_BANNER" : "Your FAN id",
+
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4183289",
+
+"startappid" : "205082972",
+"enable_strap" : true,
+"enable_strap_SplahScreen" : false,
+
+
+// Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+// help give us a 5 star rating, so we keep the spirit of providing the latest updates
+// jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"Exit_Popup_Dialog" : "
+yuk bantu rating bintang 5 aplikasi ini
+     
+agar kami lebih bersemangat untuk menambahkan fitur fitur baru :)
+     
+kamu  juga bisa request lagu apa yang dapat kami tambahkan di  komentar setelah melakukan rating loo",
+"Rate_Button" : "Rating 5 Sekarang",
+"Later_Button" : "Ratingnya nanti ajaa deh",
+"enable_Share_button" : true,
+"Share_TXT" : "
+wow wow wow aplikasi ini keren banget gaes
+ada banyak koleksi lagu lagu paling bikin semangat hari ini
+lengkap kekinian
+aku udah nyobain, seriusan kamu perlu coba juga
+coba download aja klik link dibawah 
+",
+"More_Button" : "Bagikan Aplikasi ini ke teman via whatsapp",
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.package.name"
+
+}
+]
+,"Mp3": [
+
+
+  {
+    "name_mp3": "DJ AMPUN BANG JAGO",
+    "link_mp3": "DJ AMPUN BANG JAGO.mp3"
+  },{
+     "name_mp3": "DJ ANJING BANGET",
+     "link_mp3": "DJ ANJING BANGET.mp3"
+   },{
+     "name_mp3": "Dj Berbeza Kasta Thomas Arya",
+     "link_mp3": "Dj Berbeza Kasta Thomas Arya.mp3"
+   },{
+     "name_mp3": "Dj Blue Bird",
+     "link_mp3": "Dj Blue Bird.mp3"
+   },{
+     "name_mp3": "Dj Bojomu Semangatku",
+     "link_mp3": "Dj Bojomu Semangatku.mp3"
+   },{
+     "name_mp3": "DJ CALMA REMIX VIRAL TERBARU",
+     "link_mp3": "DJ CALMA REMIX VIRAL TERBARU.mp3"
+   },{
+     "name_mp3": "DJ CIAO ADIOS REMIX",
+     "link_mp3": "DJ CIAO ADIOS REMIX.mp3"
+   },{
+     "name_mp3": "Dj C'est La Vie x Kaweni Merry",
+     "link_mp3": "DJ CIKICIKI BAMBAM x AMOR PROBIDO.mp3"
+   },{
+     "name_mp3": "Dj Dance Monkey",
+     "link_mp3": "Dj Dance Monkey.mp3"
+   },{
+     "name_mp3": "Dj Ditinggal Pas Sayang Sayange",
+     "link_mp3": "Dj Ditinggal Pas Sayang Sayange.mp3"
+   },{
+     "name_mp3": "Dj De Yang Gatal Gatal Sa Tarik SisViral",
+     "link_mp3": "Dj De Yang Gatal Gatal Sa Tarik SisViral.mp3"
+   },{
+     "name_mp3": "Dj Kimi No Toriko",
+     "link_mp3": "Dj Kimi No Toriko.mp3"
+   },{
+     "name_mp3": "Dj Kurasakan Perhatianmu",
+     "link_mp3": "Dj Kurasakan Perhatianmu.mp3"
+   },{
+    "name_mp3": "Dj Odading Mang Oleh",
+    "link_mp3": "Dj Odading Mang Oleh.mp3"
+  },{
+     "name_mp3": "Dj Pale Pale",
+     "link_mp3": "Dj Pale Pale.mp3"
+   },{
+     "name_mp3": "DJ PIPIPI CALON MANTU Remix",
+     "link_mp3": "DJ PIPIPI CALON MANTU Remix.mp3"
+   },{
+     "name_mp3": "Dj Pokemon Dimana Kamu Berada",
+     "link_mp3": "Dj Pokemon Dimana Kamu Berada.mp3"
+   },{
+     "name_mp3": "Dj Temola",
+     "link_mp3": "Dj Temola.mp3"
+   },{
+     "name_mp3": "Dj Unity x Mahana Kui x Bale Bale",
+     "link_mp3": "Dj Unity x Mahana Kui x Bale Bale.mp3"
+   },{
+    "name_mp3": "Dj Tiban Bahana Pui",
+    "link_mp3": "Dj Tiban Bahana Pui.mp3"
+  }
+],"Wallpaper": [
+  {
+    "image": "file:///android_asset/nature2.jpg"
+  },{
+    "image": "file:///android_asset/nature.jpg"
+  },{
+    "image": "file:///android_asset/nature1.jpg"
+  },{
+    "image": "file:///android_asset/nature3.jpg"
+  },{
+    "image": "file:///android_asset/nature4.jpg"
+  },{
+    "image": "file:///android_asset/nature5.jpg"
+  },{
+    "image": "file:///android_asset/nature6.jpg"
+  },{
+    "image": "file:///android_asset/nature7.jpg"
+  }
+
+
+
+]}
