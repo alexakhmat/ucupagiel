@@ -1,0 +1,207 @@
+{
+"Ads": [
+{
+     
+// NOTE
+     // belum FAN DAN STARTRAPP
+     // baru unity saja
+     
+     
+// 0 artinya tidak di redirect
+// 1 artinya di redirect
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// online atau offline
+"MODE_mp3_online_offline" : "online",
+
+
+"MODE_NO_ADS" : false,
+"ADS_on_START" : false,
+"ads_on_exit_dialog" : true,
+
+"Json_popup_Wait" : "Data Ready to GO . . .",
+"Mode_No_Ads_true" : "Proversion Activated",
+
+// mode iklan list
+// PENGATURAN IKLAN
+// admob1 = backup startapp
+// admob2 = backup unity backup startapp
+// fan
+// unity = backup startapp
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_banner" : "unity",
+"PENGATURAN_IKLAN_inter" : "unity",
+"INTER_COUNT" : 5,
+
+"ADMOB_INTER" : "ca-app-pub-",
+"ADMOB_BANNER" : "ca-app-pub-",
+"ADMOB_OPENADS" : "ca-app-pub-",
+"FAN_INTER" : "Your FAN id",
+"FAN_BANNER" : "Your FAN id",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4183289",
+"startappid" : "205082972",
+"enable_strap" : true,
+"enable_strap_SplahScreen" : false,
+// Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+// help give us a 5 star rating, so we keep the spirit of providing the latest updates
+// jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"Exit_Popup_Dialog" : "
+yuk bantu rating bintang 5 aplikasi ini
+     
+agar kami lebih bersemangat untuk menambahkan fitur fitur baru :)
+     
+kamu  juga bisa request lagu apa yang dapat kami tambahkan di  komentar setelah melakukan rating loo",
+"Rate_Button" : "Rating 5 Sekarang",
+"Later_Button" : "Ratingnya nanti ajaa deh",
+"enable_Share_button" : true,
+"Share_TXT" : "
+wow wow wow aplikasi ini keren banget gaes
+ada banyak koleksi lagu lagu paling bikin semangat hari ini
+lengkap kekinian
+aku udah nyobain, seriusan kamu perlu coba juga
+coba download aja klik link dibawah 
+",
+"More_Button" : "Bagikan Aplikasi ini ke teman via whatsapp",
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.package.name"
+}
+]
+,"Mp3": [
+
+
+
+  {
+    "name_mp3": "DJ A IM LADY CUKUP TAU TAK PERLU MERAYU",
+    "link_mp3": "DJ A IM LADY CUKUP TAU TAK PERLU MERAYU.mp3"
+  },{
+     "name_mp3": "DJ ADUH MAMAE X BERNYANYI",
+     "link_mp3": "DJ ADUH MAMAE X BERNYANYI.mp3"
+   },{
+     "name_mp3": "DJ AKIMILAKU AKU PUNYA ISTRI 3",
+     "link_mp3": "DJ AKIMILAKU AKU PUNYA ISTRI 3.mp3"
+   },{
+     "name_mp3": "DJ AKPER ID FULL BASS",
+     "link_mp3": "DJ AKPER ID FULL BASS.mp3"
+   },{
+     "name_mp3": "DJ AKU PEGANG KENDALI",
+     "link_mp3": "DJ AKU PEGANG KENDALI.mp3"
+   },{
+     "name_mp3": "DJ AKU SUKA DIA MAK YANG SEDANG SEDANG SAJA",
+     "link_mp3": "DJ AKU SUKA DIA MAK YANG SEDANG SEDANG SAJA.mp3"
+   },{
+     "name_mp3": "DJ AKU SUKA DIA MAK",
+     "link_mp3": "DJ AKU SUKA DIA MAK.mp3"
+   },{
+     "name_mp3": "DJ BABI BUMBUMBUM",
+     "link_mp3": "DJ BABI BUMBUMBUM.mp3"
+   },{
+     "name_mp3": "DJ DAMON VOCATION x PANIK GAK",
+     "link_mp3": "DJ DAMON VOCATION x PANIK GAK.mp3"
+   },{
+     "name_mp3": "DJ DIAMOND IN THE SKY x MONSTERS",
+     "link_mp3": "DJ DIAMOND IN THE SKY x MONSTERS.mp3"
+   },{
+     "name_mp3": "DJ DISITU ENAK SUSU JANDA",
+     "link_mp3": "DJ DISITU ENAK SUSU JANDA.mp3"
+   },{
+     "name_mp3": "DJ GRATATATA VIRAL",
+     "link_mp3": "DJ GRATATATA VIRAL.mp3"
+   },{
+     "name_mp3": "DJ HARTA DAN TAHTA JELEK GAPAPA ASAL BANYAK DUITNYA",
+     "link_mp3": "DJ HARTA DAN TAHTA JELEK GAPAPA ASAL BANYAK DUITNYA.mp3"
+   },{
+    "name_mp3": "DJ HATI HANCUR BERANTAKAN",
+    "link_mp3": "DJ HATI HANCUR BERANTAKAN.mp3"
+  },{
+     "name_mp3": "DJ IM COMING HOME",
+     "link_mp3": "DJ IM COMING HOME.mp3"
+   },{
+     "name_mp3": "DJ IRI BILANG BUMA BUMA YE",
+     "link_mp3": "DJ IRI BILANG BUMA BUMA YE.mp3"
+   },{
+     "name_mp3": "DJ ITS MY LIFE LA LA LA",
+     "link_mp3": "DJ ITS MY LIFE LA LA LA.mp3"
+   },{
+     "name_mp3": "DJ JAGA HATI JAGA MATA",
+     "link_mp3": "DJ JAGA HATI JAGA MATA.mp3"
+   },{
+     "name_mp3": "DJ KALAU EMANG ENGGAK SAYANG",
+     "link_mp3": "DJ KALAU EMANG ENGGAK SAYANG.mp3"
+   },{
+     "name_mp3": "DJ MAGIC RUDE",
+     "link_mp3": "DJ MAGIC RUDE.mp3"
+   },{
+     "name_mp3": "DJ MAIMUNAH PODING",
+     "link_mp3": "DJ MAIMUNAH PODING.mp3"
+   },{
+     "name_mp3": "DJ OLD DARK SIDE",
+     "link_mp3": "DJ OLD DARK SIDE.mp3"
+   },{
+     "name_mp3": "DJ PACARKU DITIKUNG TEMAN REMIX VIRAL",
+     "link_mp3": "DJ PACARKU DITIKUNG TEMAN REMIX VIRAL.mp3"
+   },{
+     "name_mp3": "DJ PANIK GAK",
+     "link_mp3": "DJ PANIK GAK.mp3"
+   },{
+     "name_mp3": "DJ PENANTIAN INI TERAMATLAH PANJANG",
+     "link_mp3": "DJ PENANTIAN INI TERAMATLAH PANJANG.mp3"
+   },{
+     "name_mp3": "DJ SA JANJI TRA AKAN MABOX LAGI",
+     "link_mp3": "DJ SA JANJI TRA AKAN MABOX LAGI.mp3"
+   },{
+     "name_mp3": "DJ SAYANG BAPAKKU DOKTER CINTA REMIX",
+     "link_mp3": "DJ SAYANG BAPAKKU DOKTER CINTA REMIX.mp3"
+   },{
+     "name_mp3": "DJ SEMUA DEMI CINTA",
+     "link_mp3": "DJ SEMUA DEMI CINTA.mp3"
+   },{
+     "name_mp3": "DJ SIMPAPA POLYUBILA",
+     "link_mp3": "DJ SIMPAPA POLYUBILA.mp3"
+   },{
+     "name_mp3": "DJ SLOW ADA YANG TUMBANG",
+     "link_mp3": "DJ SLOW ADA YANG TUMBANG.mp3"
+   },{
+     "name_mp3": "DJ STEREO LOVE x SAKIT SEKALI EVERYBODY",
+     "link_mp3": "DJ STEREO LOVE x SAKIT SEKALI EVERYBODY.mp3"
+   },{
+     "name_mp3": "DJ TANAM TANAM UBI CRAZY FROG",
+     "link_mp3": "DJ TANAM TANAM UBI CRAZY FROG.mp3"
+   },{
+     "name_mp3": "DJ TERPESONA AKU TERPESONA",
+     "link_mp3": "DJ TERPESONA AKU TERPESONA.mp3"
+   },{
+     "name_mp3": "DJ WANITA APAKAH DIRIMU INI",
+     "link_mp3": "DJ WANITA APAKAH DIRIMU INI.mp3"
+   },{
+     "name_mp3": "DJ WAVIN FLAG",
+     "link_mp3": "DJ WAVIN FLAG.mp3"
+   },{
+    "name_mp3": "DJ WEK WEK RAUSAN VIRAL",
+    "link_mp3": "DJ WEK WEK RAUSAN VIRAL.mp3"
+  }
+],"Wallpaper": [
+  {
+    "image": "file:///android_asset/dj.jpg"
+  },{
+    "image": "file:///android_asset/dj1.jpg"
+  },{
+    "image": "file:///android_asset/dj2.jpg"
+  },{
+    "image": "file:///android_asset/dj3.jpg"
+  },{
+    "image": "file:///android_asset/dj4.jpg"
+  },{
+    "image": "file:///android_asset/dj5.jpg"
+  },{
+    "image": "file:///android_asset/dj6.jpg"
+  },{
+    "image": "file:///android_asset/dj7.jpg"
+  },{
+    "image": "file:///android_asset/dj8.jpg"
+  }
+  
+  
+]}

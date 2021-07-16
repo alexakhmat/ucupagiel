@@ -1,0 +1,173 @@
+{
+"Ads": [
+{
+     
+// NOTE
+     // belum FAN DAN STARTRAPP
+     // baru unity saja
+     
+     
+// 0 artinya tidak di redirect
+// 1 artinya di redirect
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// online atau offline
+"MODE_mp3_online_offline" : "online",
+
+
+"MODE_NO_ADS" : false,
+"ADS_on_START" : false,
+"ads_on_exit_dialog" : true,
+
+"Json_popup_Wait" : "Data Ready to GO . . .",
+"Mode_No_Ads_true" : "Proversion Activated",
+
+// mode iklan list
+// PENGATURAN IKLAN
+// admob1 = backup startapp
+// admob2 = backup unity backup startapp
+// fan
+// unity = backup startapp
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_banner" : "unity",
+"PENGATURAN_IKLAN_inter" : "unity",
+"INTER_COUNT" : 5,
+
+"ADMOB_INTER" : "ca-app-pub-",
+"ADMOB_BANNER" : "ca-app-pub-",
+"ADMOB_OPENADS" : "ca-app-pub-",
+"FAN_INTER" : "Your FAN id",
+"FAN_BANNER" : "Your FAN id",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4183289",
+"startappid" : "205082972",
+"enable_strap" : true,
+"enable_strap_SplahScreen" : false,
+// Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+// help give us a 5 star rating, so we keep the spirit of providing the latest updates
+// jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"Exit_Popup_Dialog" : "
+yuk bantu rating bintang 5 aplikasi ini
+     
+agar kami lebih bersemangat untuk menambahkan fitur fitur baru :)
+     
+kamu  juga bisa request lagu apa yang dapat kami tambahkan di  komentar setelah melakukan rating loo",
+"Rate_Button" : "Rating 5 Sekarang",
+"Later_Button" : "Ratingnya nanti ajaa deh",
+"enable_Share_button" : true,
+"Share_TXT" : "
+wow wow wow aplikasi ini keren banget gaes
+ada banyak koleksi lagu lagu paling bikin semangat hari ini
+lengkap kekinian
+aku udah nyobain, seriusan kamu perlu coba juga
+coba download aja klik link dibawah 
+",
+"More_Button" : "Bagikan Aplikasi ini ke teman via whatsapp",
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.package.name"
+}
+]
+,"Mp3": [
+
+
+
+  {
+    "name_mp3": "Aduhai",
+    "link_mp3": "Aduhai.mp3"
+  },{
+     "name_mp3": "Antara Teman dan Kasih",
+     "link_mp3": "Antara Teman dan Kasih.mp3"
+   },{
+     "name_mp3": "Badai Biru",
+     "link_mp3": "Badai Biru.mp3"
+   },{
+     "name_mp3": "Bencana",
+     "link_mp3": "Bencana.mp3"
+   },{
+     "name_mp3": "Bukan Tak Mampu",
+     "link_mp3": "Bukan Tak Mampu.mp3"
+   },{
+     "name_mp3": "Bulan Bintang",
+     "link_mp3": "Bulan Bintang.mp3"
+   },{
+     "name_mp3": "Cincin Putih",
+     "link_mp3": "Cincin Putih.mp3"
+   },{
+     "name_mp3": "Cinta Berawan",
+     "link_mp3": "Cinta Berawan.mp3"
+   },{
+     "name_mp3": "Cinta Noda Hitam",
+     "link_mp3": "Cinta Noda Hitam.mp3"
+   },{
+     "name_mp3": "Citra Cinta",
+     "link_mp3": "Citra Cinta.mp3"
+   },{
+     "name_mp3": "Derita Di Atas Derita",
+     "link_mp3": "Derita Di Atas Derita.mp3"
+   },{
+     "name_mp3": "Do'a Suci",
+     "link_mp3": "Do'a Suci.mp3"
+   },{
+     "name_mp3": "Dusta",
+     "link_mp3": "Dusta.mp3"
+   },{
+    "name_mp3": "Gala gala",
+    "link_mp3": "Gala gala.mp3"
+  },{
+     "name_mp3": "Ghibah",
+     "link_mp3": "Ghibah.mp3"
+   },{
+     "name_mp3": "Iming iming",
+     "link_mp3": "Iming iming.mp3"
+   },{
+     "name_mp3": "Jangan Pura Pura",
+     "link_mp3": "Jangan Pura Pura.mp3"
+   },{
+     "name_mp3": "Kejam",
+     "link_mp3": "Kejam.mp3"
+   },{
+     "name_mp3": "Makan Hati",
+     "link_mp3": "Makan Hati.mp3"
+   },{
+     "name_mp3": "Menari Diatas Luka",
+     "link_mp3": "Menari Diatas Luka.mp3"
+   },{
+     "name_mp3": "Senandung Rembulan",
+     "link_mp3": "Senandung Rembulan.mp3"
+   },{
+     "name_mp3": "Setetes Air Hina",
+     "link_mp3": "Setetes Air Hina.mp3"
+   },{
+     "name_mp3": "Tabir Kepalsuan",
+     "link_mp3": "Tabir Kepalsuan.mp3"
+   },{
+     "name_mp3": "Tajamnya Cinta",
+     "link_mp3": "Tajamnya Cinta.mp3"
+  }
+],"Wallpaper": [
+  {
+    "image": "file:///android_asset/UJ.jpg"
+  },{
+    "image": "file:///android_asset/UJ1.jpg"
+  },{
+    "image": "file:///android_asset/UJ2.jpg"
+  },{
+    "image": "file:///android_asset/UJ3.jpg"
+  },{
+    "image": "file:///android_asset/UJ4.jpg"
+  },{
+    "image": "file:///android_asset/UJ5.jpg"
+  },{
+    "image": "file:///android_asset/UJ6.jpg"
+  },{
+    "image": "file:///android_asset/UJ7.jpg"
+  },{
+    "image": "file:///android_asset/UJ8.jpg"
+  },{
+    "image": "file:///android_asset/UJ9.jpg"
+  }
+  
+  
+]}

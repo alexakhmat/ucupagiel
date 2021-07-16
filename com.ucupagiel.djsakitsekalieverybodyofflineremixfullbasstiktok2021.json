@@ -1,0 +1,177 @@
+{
+"Ads": [
+{
+     
+// NOTE
+     // belum FAN DAN STARTRAPP
+     // baru unity saja
+     
+     
+// 0 artinya tidak di redirect
+// 1 artinya di redirect
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
+
+// online atau offline
+"MODE_mp3_online_offline" : "online",
+
+
+"MODE_NO_ADS" : false,
+"ADS_on_START" : false,
+"ads_on_exit_dialog" : true,
+
+"Json_popup_Wait" : "Data Ready to GO . . .",
+"Mode_No_Ads_true" : "Proversion Activated",
+
+// mode iklan list
+// PENGATURAN IKLAN
+// admob1 = backup startapp
+// admob2 = backup unity backup startapp
+// fan
+// unity = backup startapp
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_banner" : "unity",
+"PENGATURAN_IKLAN_inter" : "unity",
+"INTER_COUNT" : 5,
+
+"ADMOB_INTER" : "ca-app-pub-",
+"ADMOB_BANNER" : "ca-app-pub-",
+"ADMOB_OPENADS" : "ca-app-pub-",
+"FAN_INTER" : "Your FAN id",
+"FAN_BANNER" : "Your FAN id",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4183289",
+"startappid" : "205082972",
+"enable_strap" : true,
+"enable_strap_SplahScreen" : false,
+// Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+// help give us a 5 star rating, so we keep the spirit of providing the latest updates
+// jika shre button true maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"Exit_Popup_Dialog" : "
+yuk bantu rating bintang 5 aplikasi ini
+     
+agar kami lebih bersemangat untuk menambahkan fitur fitur baru :)
+     
+kamu  juga bisa request lagu apa yang dapat kami tambahkan di  komentar setelah melakukan rating loo",
+"Rate_Button" : "Rating 5 Sekarang",
+"Later_Button" : "Ratingnya nanti ajaa deh",
+"enable_Share_button" : true,
+"Share_TXT" : "
+wow wow wow aplikasi ini keren banget gaes
+ada banyak koleksi lagu lagu paling bikin semangat hari ini
+lengkap kekinian
+aku udah nyobain, seriusan kamu perlu coba juga
+coba download aja klik link dibawah 
+",
+"More_Button" : "Bagikan Aplikasi ini ke teman via whatsapp",
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.package.name"
+}
+]
+,"Mp3": [
+
+
+
+  {
+    "name_mp3": "DJ SAKIT SEKALI EVERYBODY X DAMON VOCATION",
+    "link_mp3": "DJ SAKIT SEKALI EVERYBODY X DAMON VOCATION.mp3"
+  },{
+     "name_mp3": "DJ Always",
+     "link_mp3": "DJ Always.mp3"
+   },{
+     "name_mp3": "DJ BABY FAMILY FRIENDLY",
+     "link_mp3": "DJ BABY FAMILY FRIENDLY.mp3"
+   },{
+     "name_mp3": "Dj Baby Please Don't Go",
+     "link_mp3": "Dj Baby Please Don't Go.mp3"
+   },{
+     "name_mp3": "Dj Bella Ciao X Bale Bale",
+     "link_mp3": "Dj Bella Ciao X Bale Bale.mp3"
+   },{
+     "name_mp3": "DJ BIASALAH OH MY GOD x SIMPAPA POLYUBILA",
+     "link_mp3": "DJ BIASALAH OH MY GOD x SIMPAPA POLYUBILA.mp3"
+   },{
+     "name_mp3": "Dj Biasalah x Gak Suka Gelay",
+     "link_mp3": "Dj Biasalah x Gak Suka Gelay.mp3"
+   },{
+     "name_mp3": "DJ BOM DIGGY DIGGY",
+     "link_mp3": "DJ BOM DIGGY DIGGY.mp3"
+   },{
+     "name_mp3": "DJ BOMA BOMAYE  GEO DA SILVA",
+     "link_mp3": "DJ BOMA BOMAYE  GEO DA SILVA.mp3"
+   },{
+     "name_mp3": "Dj Bukan Dj Situ Enak Susu Janda",
+     "link_mp3": "Dj Bukan Dj Situ Enak Susu Janda.mp3"
+   },{
+     "name_mp3": "Dj Cidro 2",
+     "link_mp3": "Dj Cidro 2.mp3"
+   },{
+     "name_mp3": "DJ Gratatata DJ Cantik",
+     "link_mp3": "DJ Gratatata DJ Cantik.mp3"
+   },{
+     "name_mp3": "DJ IRI BILANG BABI BUMA BUMAYE",
+     "link_mp3": "DJ IRI BILANG BABI BUMA BUMAYE.mp3"
+   },{
+    "name_mp3": "Dj Let Me Out",
+    "link_mp3": "Dj Let Me Out.mp3"
+  },{
+     "name_mp3": "DJ Melody Stereo Love Slow",
+     "link_mp3": "DJ Melody Stereo Love Slow.mp3"
+   },{
+     "name_mp3": "DJ Muskurane x  Magic x anjing",
+     "link_mp3": "DJ Muskurane x  Magic x anjing.mp3"
+   },{
+     "name_mp3": "Dj Old Better Have My Money X Damon",
+     "link_mp3": "Dj Old Better Have My Money X Damon.mp3"
+   },{
+     "name_mp3": "Dj Pacarku Ditikung Teman Hati Hancur Berantakan",
+     "link_mp3": "Dj Pacarku Ditikung Teman Hati Hancur Berantakan.mp3"
+   },{
+     "name_mp3": "DJ PAKET ASHIAP REMIX",
+     "link_mp3": "DJ PAKET ASHIAP REMIX.mp3"
+   },{
+     "name_mp3": "Dj Sa Stop Mabok",
+     "link_mp3": "Dj Sa Stop Mabok.mp3"
+   },{
+     "name_mp3": "Dj Abang Abange Lambe",
+     "link_mp3": "Dj Abang Abange Lambe.mp3"
+   },{
+     "name_mp3": "DJ Sakit Sekali Everybody",
+     "link_mp3": "DJ Sakit Sekali Everybody.mp3"
+   },{
+     "name_mp3": "DJ TERNGIANG  NGIANG X DJ WELUT KANG COPET",
+     "link_mp3": "DJ TERNGIANG  NGIANG X DJ WELUT KANG COPET.mp3"
+   },{
+     "name_mp3": "Dj Wanita Apakah Dirimu Ini",
+     "link_mp3": "Dj Wanita Apakah Dirimu Ini.mp3"
+   },{
+     "name_mp3": "DJ WELUT KANG COPET x LELOLAY x KAMU BERDOSA BANGET",
+     "link_mp3": "DJ WELUT KANG COPET x LELOLAY x KAMU BERDOSA BANGET.mp3"
+   },{
+    "name_mp3": "Dj Wonderland",
+    "link_mp3": "Dj Wonderland.mp3"
+  }
+],"Wallpaper": [
+  {
+    "image": "file:///android_asset/BASEDJ.jpg"
+  },{
+    "image": "file:///android_asset/DJ.jpg"
+  },{
+    "image": "file:///android_asset/DJ1.jpg"
+  },{
+    "image": "file:///android_asset/DJ2.jpg"
+  },{
+    "image": "file:///android_asset/DJ3.jpg"
+  },{
+    "image": "file:///android_asset/DJ4.jpg"
+  },{
+    "image": "file:///android_asset/DJ5.jpg"
+  },{
+    "image": "file:///android_asset/DJ6.jpg"
+  },{
+    "image": "file:///android_asset/DJ7.jpg"
+  }
+  
+  
+]}
