@@ -35,9 +35,9 @@
 "PENGATURAN_IKLAN_inter" : "unity",
 "INTER_COUNT" : 5,
 
-"ADMOB_INTER" : "ca-app-pub-
-"ADMOB_BANNER" : "ca-app-pub-
-"ADMOB_OPENADS" : "ca-app-pub-
+"ADMOB_INTER" : "ca-app-pub-",
+"ADMOB_BANNER" : "ca-app-pub-",
+"ADMOB_OPENADS" : "ca-app-pub-",
 
 "FAN_INTER" : "Your FAN id",
 "FAN_BANNER" : "Your FAN id",
