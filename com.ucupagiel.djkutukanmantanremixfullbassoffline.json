@@ -35,9 +35,9 @@
 "PENGATURAN_IKLAN_inter" : "unity",
 "INTER_COUNT" : 5,
 
-"ADMOB_INTER" : "ca-app-pub-
-"ADMOB_BANNER" : "ca-app-pub-
-"ADMOB_OPENADS" : "ca-app-pub-
+"ADMOB_INTER" : "ca-app-pub-",
+"ADMOB_BANNER" : "ca-app-pub-",
+"ADMOB_OPENADS" : "ca-app-pub-",
 
 "FAN_INTER" : "Your FAN id",
 "FAN_BANNER" : "Your FAN id",
@@ -185,6 +185,7 @@ coba download aja klik link dibawah
     "link_mp3": "DJ YA LILI YA LILI REMIX.mp3"
   }
 ],"Wallpaper": [
+
   {
     "image": "file:///android_asset/BG9.jpg"
   },{
