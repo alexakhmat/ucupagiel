@@ -31,12 +31,12 @@
 // unity = backup startapp
 
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
-"PENGATURAN_IKLAN_banner" : "unity",
-"PENGATURAN_IKLAN_inter" : "unity",
-"INTER_COUNT" : 5,
+"PENGATURAN_IKLAN_banner" : "admob2",
+"PENGATURAN_IKLAN_inter" : "admob2",
+"INTER_COUNT" : 15,
 
-"ADMOB_INTER" : "ca-app-pub-",
-"ADMOB_BANNER" : "ca-app-pub-",
+"ADMOB_INTER" : "ca-app-pub-7968801487168687/3997851224",
+"ADMOB_BANNER" : "ca-app-pub-7968801487168687/9779633274",
 "ADMOB_OPENADS" : "ca-app-pub-",
 "FAN_INTER" : "Your FAN id",
 "FAN_BANNER" : "Your FAN id",
